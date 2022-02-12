@@ -11,6 +11,10 @@ public class Driver
 		
 		x= x + y;
 		System.out.println(x);
+		
+		if (x>10) {
+			System.out.println("Congratz");
+		}
 	}
 
 }
